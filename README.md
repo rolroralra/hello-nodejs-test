@@ -2,7 +2,7 @@
 
 Just try to CI/CD. 
 
-GitHub
-Jenkins
-Docker Registry
+GitHub  \
+Jenkins \
+Docker Registry \
 Helm Chart
